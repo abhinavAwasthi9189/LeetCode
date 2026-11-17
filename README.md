@@ -21,6 +21,7 @@
 | [0002-add-two-numbers](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0062-unique-paths) |
 ## Manacher
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
