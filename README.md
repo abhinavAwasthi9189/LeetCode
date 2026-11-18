@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0062-unique-paths) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
