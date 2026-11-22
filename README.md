@@ -25,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0063-unique-paths-ii) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
