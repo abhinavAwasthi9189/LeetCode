@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0027-remove-element) |
 | [0063-unique-paths-ii](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0088-merge-sorted-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0013-roman-to-integer) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
