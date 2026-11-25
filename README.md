@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
