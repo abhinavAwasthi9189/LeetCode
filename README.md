@@ -12,6 +12,7 @@
 | [0063-unique-paths-ii](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -31,6 +32,7 @@
 | [0013-roman-to-integer](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -56,6 +58,7 @@
 | [0061-rotate-list](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0189-rotate-array) |
 ## Trie
 |  |
 | ------- |
