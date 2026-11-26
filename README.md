@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0027-remove-element) |
@@ -120,9 +121,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0035-search-insert-position) |
 ## Backtracking
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0089-gray-code) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
