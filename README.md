@@ -12,6 +12,7 @@
 | [0063-unique-paths-ii](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0485-max-consecutive-ones](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
