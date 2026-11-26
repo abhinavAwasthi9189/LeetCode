@@ -44,6 +44,7 @@
 | [0013-roman-to-integer](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
 | ------- |
