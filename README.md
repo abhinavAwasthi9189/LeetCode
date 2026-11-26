@@ -30,6 +30,7 @@
 | [0012-integer-to-roman](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -64,6 +65,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
