@@ -47,6 +47,7 @@
 | [0013-roman-to-integer](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0091-decode-ways](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Two Pointers
@@ -90,6 +91,7 @@
 | [0005-longest-palindromic-substring](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0091-decode-ways](https://github.com/abhinavAwasthi9189/LeetCode/tree/master/0091-decode-ways) |
 ## Manacher
 |  |
 | ------- |
